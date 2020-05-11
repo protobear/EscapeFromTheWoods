@@ -1,0 +1,10 @@
+C:\Users\ynk\Desktop\csharp\ApenInHetBos\ApenInHetBos\bin\Debug\ApenInHetBos.exe.config
+C:\Users\ynk\Desktop\csharp\ApenInHetBos\ApenInHetBos\bin\Debug\ApenInHetBos.exe
+C:\Users\ynk\Desktop\csharp\ApenInHetBos\ApenInHetBos\bin\Debug\ApenInHetBos.pdb
+C:\Users\ynk\Desktop\csharp\ApenInHetBos\ApenInHetBos\obj\Debug\ApenInHetBos.csprojAssemblyReference.cache
+C:\Users\ynk\Desktop\csharp\ApenInHetBos\ApenInHetBos\obj\Debug\ApenInHetBos.Form1.resources
+C:\Users\ynk\Desktop\csharp\ApenInHetBos\ApenInHetBos\obj\Debug\ApenInHetBos.Properties.Resources.resources
+C:\Users\ynk\Desktop\csharp\ApenInHetBos\ApenInHetBos\obj\Debug\ApenInHetBos.csproj.GenerateResource.cache
+C:\Users\ynk\Desktop\csharp\ApenInHetBos\ApenInHetBos\obj\Debug\ApenInHetBos.csproj.CoreCompileInputs.cache
+C:\Users\ynk\Desktop\csharp\ApenInHetBos\ApenInHetBos\obj\Debug\ApenInHetBos.exe
+C:\Users\ynk\Desktop\csharp\ApenInHetBos\ApenInHetBos\obj\Debug\ApenInHetBos.pdb

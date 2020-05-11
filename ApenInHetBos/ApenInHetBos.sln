@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MonkeysAsync", "MonkeysAsync\MonkeysAsync.csproj", "{DB6FA075-8FB2-4DC0-AC34-3245C96EF00D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DB6FA075-8FB2-4DC0-AC34-3245C96EF00D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB6FA075-8FB2-4DC0-AC34-3245C96EF00D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB6FA075-8FB2-4DC0-AC34-3245C96EF00D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB6FA075-8FB2-4DC0-AC34-3245C96EF00D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4BD45CF2-7336-45DB-8A3F-8A78C5E8BC17}
+	EndGlobalSection
+EndGlobal

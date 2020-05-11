@@ -1,0 +1,7 @@
+C:\Users\ynk\Desktop\csharp\ApenInHetBos\MonkeysAsync\bin\Debug\MonkeysAsync.exe.config
+C:\Users\ynk\Desktop\csharp\ApenInHetBos\MonkeysAsync\bin\Debug\MonkeysAsync.exe
+C:\Users\ynk\Desktop\csharp\ApenInHetBos\MonkeysAsync\bin\Debug\MonkeysAsync.pdb
+C:\Users\ynk\Desktop\csharp\ApenInHetBos\MonkeysAsync\obj\Debug\MonkeysAsync.csproj.CoreCompileInputs.cache
+C:\Users\ynk\Desktop\csharp\ApenInHetBos\MonkeysAsync\obj\Debug\MonkeysAsync.exe
+C:\Users\ynk\Desktop\csharp\ApenInHetBos\MonkeysAsync\obj\Debug\MonkeysAsync.pdb
+C:\Users\ynk\Desktop\csharp\ApenInHetBos\MonkeysAsync\obj\Debug\MonkeysAsync.csprojAssemblyReference.cache
