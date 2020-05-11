@@ -73,6 +73,7 @@ namespace AsyncMonkeys
             {
                 await doAsync.laatDeApenOntsnappen(bos);
                 await Logger.TekenBos(bos);
+                Logger.SaveLog(bos);
             }
 
             Console.Write("hit 74");

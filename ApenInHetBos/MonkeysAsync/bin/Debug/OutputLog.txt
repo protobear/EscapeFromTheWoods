@@ -1,0 +1,13 @@
+2 Alexis is ontsnapt in 1
+2 Eric is ontsnapt in 1
+2 Xeno is ontsnapt in 1
+2 Louie is ontsnapt in 1
+2 Lucas is ontsnapt in 1
+write bitmap routes wood : 2 - start
+1 Alexis is ontsnapt in 1
+1 Eric is ontsnapt in 1
+1 Xeno is ontsnapt in 1
+1 Louie is ontsnapt in 1
+1 Lucas is ontsnapt in 1
+write bitmap routes wood : 1 - start
+

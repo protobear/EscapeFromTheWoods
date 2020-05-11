@@ -51,7 +51,7 @@ namespace MonkeysAsync
             Pen p = new Pen(Color.DarkGreen, 2);
             foreach (var boom in Bos.bomenList)
             {
-           //     Console.WriteLine($"teken: {boom.X} {boom.Y}");
+                Console.WriteLine($"teken: {boom.X} {boom.Y}");
                 g.DrawEllipse(p, boom.X, boom.Y, 2, 3);
             }
             foreach (var aap in Bos.apenList){
